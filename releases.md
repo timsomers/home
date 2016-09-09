@@ -6,8 +6,8 @@ The under development release is **Fargo**
 ## Fargo (Under development)
 * Release Name: Fargo
 * Release Type: -
-* Release Date: Planned for End Aug 2016
-* Status: Alpha 1
+* Release Date: Planned for End Sept 2016
+* Status: -
 
 #### Version of the different packages:
 * Not applicable yet.
