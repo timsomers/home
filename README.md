@@ -22,7 +22,7 @@ tune the block layer to your specific needs, both on vPool and vDisk level.
 It's written in C++.
 
 ## Open vStorage Backend
-From Open vStorage perspective a "backend" is an object storage systems like Amazon S3, Openstack Swift, HGST Active Arhive System or others.
+From Open vStorage perspective a "backend" is an object storage systems like Amazon S3, Openstack Swift, HGST Active Archive System or others.
 The Open vStorage alternative to these backends is an object storage system written in Ocaml developed under the codename [Alba](https://github.com/openvstorage/alba)
 Alba turns commodity x86 storage servers into an always consistent distributed object storage systems.
 
